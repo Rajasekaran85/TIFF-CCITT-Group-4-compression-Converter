@@ -5,7 +5,6 @@ import glob
 import wand.image
 
 # pillow library used
-# OpenCV library used
 # wand (imagicMagick) library used
 
 # *** TIFF Image CCITT Group 4 compression Converter ***
