@@ -1,4 +1,4 @@
-# Project Title
+# Application Title
 
 TIFF Image CCITT Group 4 compression Converter
 
